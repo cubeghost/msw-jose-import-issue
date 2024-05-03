@@ -1,0 +1,17 @@
+{
+  "name": "msw-jose-import-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cubeghost/msw-jose-import-issue.git",
+  "author": "alex baldwin <alex.baldwin@netlify.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jose": "^5.2.4",
+    "msw": "^2.2.14",
+    "typescript": "^5.4.5",
+    "vitest": "^1.5.3"
+  },
+  "scripts": {
+    "test": "vitest"
+  }
+}
